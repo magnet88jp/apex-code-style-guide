@@ -10,6 +10,6 @@
        * [非ASCII文字](non-ascii-characters.md)
 * [ソースファイルの構造](source-file-structure.md)
 * [フォーマット](formatting.md)
-* 命名ルール
+* [命名ルール](naming.md)
 * 実践的なプログラミング
 
