@@ -1,18 +1,12 @@
 # Summary
 
-* [はじめに](README.md)
-   * [用語についての注記](terminology-notes.md)
-   * [ガイドについての注記](guide-notes.md)
-* [ソースファイルの基本事項](source-file-basics.md)
-   * [特殊文字](special-characters.md)
-       * [空白](whitespace-characters.md)
-       * [特別なエスケープシーケンス](special-escape-sequences.md)
-       * [非ASCII文字](non-ascii-characters.md)
-* [ソースファイルの構造](source-file-structure.md)
-1. aaa
-  2. aaa
-2. bbb
-3. eee
-4. 
-
+1. [はじめに](README.md)
+   1. [用語についての注記](terminology-notes.md)
+   1. [ガイドについての注記](guide-notes.md)
+1. [ソースファイルの基本事項](source-file-basics.md)
+   1. [特殊文字](special-characters.md)
+       1. [空白](whitespace-characters.md)
+       1. [特別なエスケープシーケンス](special-escape-sequences.md)
+       1. [非ASCII文字](non-ascii-characters.md)
+1. [ソースファイルの構造](source-file-structure.md)
 
