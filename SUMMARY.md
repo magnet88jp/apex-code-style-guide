@@ -4,7 +4,7 @@
    * [用語についての注記](terminology-notes.md)
    * [ガイドについての注記](guide-notes.md)
 * [基本事項](source-file-basics.md)
-   * 特殊文字
+   * [特殊文字](special-characters.md)
        * 空白
        * 特別なエスケープシーケンス
 * [ソースファイルの構造](source-file-structure.md)
