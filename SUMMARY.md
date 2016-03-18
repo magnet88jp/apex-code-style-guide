@@ -6,6 +6,6 @@
 * [基本事項](source-file-basics.md)
    * [特殊文字](special-characters.md)
        * [空白](whitespace-characters.md)
-       * 特別なエスケープシーケンス
+       * [特別なエスケープシーケンス](special-escape-sequences.md)
 * [ソースファイルの構造](source-file-structure.md)
 
