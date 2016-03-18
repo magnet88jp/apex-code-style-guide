@@ -1,3 +1,5 @@
-# My Awesome Book
+# はじめに
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+この文書はJava TM プログラミング言語のソースコードのGoogleのコーディング標準の 完全 な定義を提供する。下記のルールに従うJavaソースファイルのみが、Googleスタイルであるとみなされる。
+
+他のプログラミングスタイルガイドのように、問題の対象範囲は審美的なフォーマットの問題だけでなく他の種類の規約やコーディング標準も含まれる。しかしながらこの文書は私達が全世界的に従う 当然の規則 に優先的に注力しており（人間やマシンのいずれでも）明確に実施できない助言をすることを避けている。
