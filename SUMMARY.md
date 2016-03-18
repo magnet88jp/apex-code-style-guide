@@ -2,7 +2,7 @@
 
 * [はじめに](README.md)
    * [用語についての注記](terminology-notes.md)
-   * ガイドについての注記
+   * [ガイドについての注記](guide-notes.md)
 * 基本事項
    * 特殊文字
        * 空白
