@@ -34,7 +34,7 @@
        * [Vertical Whitespace](vertical_whitespace.md)
        * [Horizontal whitespace](horizontal_whitespace.md)
        * [Horizontal alignment: never required](horizontal_alignment_never_required.md)
-   * Grouping parentheses: recommended
+   * [Grouping parentheses: recommended](grouping_parentheses_recommended.md)
    * Specific constructs
        * Enum classes
        * Variable declarations
