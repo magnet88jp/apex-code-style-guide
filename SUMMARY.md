@@ -46,7 +46,7 @@
        * [Switch statements](switch_statements.md)
            * [Indentation](indentation.md)
            * [Fall-through: commented](fall-through_commented.md)
-           * The default case is present
+           * [The default case is present](the_default_case_is_present.md)
        * Annotations
        * Comments
            * Block comment style
