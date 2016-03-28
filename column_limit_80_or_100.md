@@ -4,8 +4,8 @@
 
 例外：
 
-1. 文字数制限に従うのが不可能の場合。（例えば、Javadoc内の長いURL、長いJSNIメソッド[^1]参照）
+1. 文字数制限に従うのが不可能な場合。（例えば、Javadoc内の長いURL、長いJSNIメソッド[^1]参照）
 2. パッケージ文とインポート文　（3.2 パッケージ文 と 3.3 インポート文 を参照のこと）
-3. コメント内の、コンソールにコピー＆ペーストされるようなコマンド。
+3. コメント内のコンソールにコピー＆ペーストされるようなコマンド。
 
-[^1] 訳注：JavaScript Native Interface 。Google Web Tookit においてアプリからJavaScript コードを呼ぶことができる。
+[^1] 訳注：JavaScript Native Interface 。Google Web Tookit においてアプリからJavaScript コードを呼ぶことができます。
