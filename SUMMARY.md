@@ -26,7 +26,7 @@
        * [Empty blocks: may be concise](empty_blocks_may_be_concise.md)
    * [Block indentation: +2 spaces](block_indentation_+2_spaces.md)
    * [One statement per line](one_statement_per_line.md)
-   * Column limit: 80 or 100
+   * [Column limit: 80 or 100](column_limit_80_or_100.md)
    * Line-wrapping
        * Where to break
        * Indent continuation lines at least +4 spaces
