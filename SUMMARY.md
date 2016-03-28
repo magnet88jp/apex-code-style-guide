@@ -49,7 +49,7 @@
            * [The default case is present](the_default_case_is_present.md)
        * [Annotations](annotations.md)
        * [Comments](comments.md)
-           * Block comment style
+           * [Block comment style](block_comment_style.md)
        * Modifiers
        * Numeric Literals
 * [命名ルール](naming.md)
