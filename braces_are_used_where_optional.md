@@ -1,2 +1,3 @@
-# Braces are used where optional
+# 使えるところでは中括弧を使用します
 
+中括弧は if else for do while 文において本体が空でも1行しかなくても使用します。
