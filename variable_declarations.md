@@ -1,2 +1,2 @@
-# Variable declarations
+# 変数宣言
 
