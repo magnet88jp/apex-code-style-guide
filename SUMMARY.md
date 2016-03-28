@@ -10,15 +10,15 @@
        * [非ASCII文字](non-ascii-characters.md)
 * [ソースファイルの構造](source-file-structure.md)
    * [ライセンスあるいはコピーライトの情報（もしあるならば）](license_or_copyright_information_if_present.md)
-   * Package statement
+   * [Package statement](package_statement.md)
    * Import statements
-     * No wildcard imports
-     * No line-wrapping
-     * Ordering and spacing
+       * No wildcard imports
+       * No line-wrapping
+       * Ordering and spacing
    * Class declaration
-     * Exactly one top-level class declaration
-     * Class member ordering
-       * Overloads: never split
+       * Exactly one top-level class declaration
+       * Class member ordering
+           * Overloads: never split
 * [フォーマット](formatting.md)
 * [命名ルール](naming.md)
 * [実践的なプログラミング](programming-practices.md)
