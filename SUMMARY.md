@@ -42,7 +42,7 @@
            * [Declared when needed, initialized as soon as possible](declared_when_needed,_initialized_as_soon_as_possi.md)
        * [Arrays](arrays.md)
            * [Array initializers: can be "block-like"](array_initializers_can_be_block-like.md)
-           * No C-style array declarations
+           * [No C-style array declarations](no_c-style_array_declarations.md)
        * Switch statements
            * Indentation
            * Fall-through: commented
