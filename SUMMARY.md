@@ -31,7 +31,7 @@
        * [Where to break](where_to_break.md)
        * [Indent continuation lines at least +4 spaces](indent_continuation_lines_at_least_+4_spaces.md)
    * [Whitespace](whitespace.md)
-       * Vertical Whitespace
+       * [Vertical Whitespace](vertical_whitespace.md)
        * Horizontal whitespace
        * Horizontal alignment: never required
    * Grouping parentheses: recommended
