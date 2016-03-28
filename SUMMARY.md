@@ -12,7 +12,7 @@
    * [ライセンスあるいはコピーライトの情報（もしあるならば）](license_or_copyright_information_if_present.md)
    * [Package statement](package_statement.md)
    * [Import statements](import_statements.md)
-       * No wildcard imports
+       * [No wildcard imports](no_wildcard_imports.md)
        * No line-wrapping
        * Ordering and spacing
    * Class declaration
