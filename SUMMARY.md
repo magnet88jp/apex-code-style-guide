@@ -15,7 +15,7 @@
        * [No wildcard imports](no_wildcard_imports.md)
        * [No line-wrapping](no_line-wrapping.md)
        * [Ordering and spacing](ordering_and_spacing.md)
-   * Class declaration
+   * [Class declaration](class_declaration.md)
        * Exactly one top-level class declaration
        * Class member ordering
            * Overloads: never split
