@@ -20,38 +20,38 @@
        * [クラスメンバーの順序](class_member_ordering.md)
            * [オーバーロードしているメソッド群を分離してはいけません](overloads_never_split.md)
 * [フォーマット](formatting.md)
-  * Braces
-    * Braces are used where optional
-    * Nonempty blocks: K & R style
-    * Empty blocks: may be concise
-  * Block indentation: +2 spaces
-  * One statement per line
-  * Column limit: 80 or 100
-  * Line-wrapping
-    * Where to break
-    * Indent continuation lines at least +4 spaces
-  * Whitespace
-    * Vertical Whitespace
-    * Horizontal whitespace
-    * Horizontal alignment: never required
-  * Grouping parentheses: recommended
-  * Specific constructs
-    * Enum classes
-    * Variable declarations
-      * One variable per declaration
-      * Declared when needed, initialized as soon as possible
-    * Arrays
-      * Array initializers: can be "block-like"
-      * No C-style array declarations
-    * Switch statements
-      * Indentation
-      * Fall-through: commented
-      * The default case is present
-    * Annotations
-    * Comments
-      * Block comment style
-    * Modifiers
-    * Numeric Literals
+   * Braces
+       * [Braces are used where optional](braces_are_used_where_optional.md)
+       * Nonempty blocks: K & R style
+       * Empty blocks: may be concise
+   * Block indentation: +2 spaces
+   * One statement per line
+   * Column limit: 80 or 100
+   * Line-wrapping
+       * Where to break
+       * Indent continuation lines at least +4 spaces
+   * Whitespace
+       * Vertical Whitespace
+       * Horizontal whitespace
+       * Horizontal alignment: never required
+   * Grouping parentheses: recommended
+   * Specific constructs
+       * Enum classes
+       * Variable declarations
+           * One variable per declaration
+           * Declared when needed, initialized as soon as possible
+       * Arrays
+           * Array initializers: can be "block-like"
+           * No C-style array declarations
+       * Switch statements
+           * Indentation
+           * Fall-through: commented
+           * The default case is present
+       * Annotations
+       * Comments
+           * Block comment style
+       * Modifiers
+       * Numeric Literals
 * [命名ルール](naming.md)
 * [実践的なプログラミング](programming-practices.md)
 
