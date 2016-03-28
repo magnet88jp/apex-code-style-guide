@@ -22,7 +22,7 @@
 * [フォーマット](formatting.md)
    * Braces
        * [Braces are used where optional](braces_are_used_where_optional.md)
-       * Nonempty blocks: K & R style
+       * [Nonempty blocks: K & R style](nonempty_blocks_k_&_r_style.md)
        * Empty blocks: may be concise
    * Block indentation: +2 spaces
    * One statement per line
