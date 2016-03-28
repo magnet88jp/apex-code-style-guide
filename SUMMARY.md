@@ -9,6 +9,7 @@
        2. [特別なエスケープシーケンス](special-escape-sequences.md)
        3. [非ASCII文字](non-ascii-characters.md)
 3. [ソースファイルの構造](source-file-structure.md)
+  4. License or copyright information, if present 
 4. [フォーマット](formatting.md)
 5. [命名ルール](naming.md)
 6. [実践的なプログラミング](programming-practices.md)
