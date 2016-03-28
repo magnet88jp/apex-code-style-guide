@@ -11,7 +11,7 @@
 * [ソースファイルの構造](source-file-structure.md)
    * [ライセンスあるいはコピーライトの情報（もしあるならば）](license_or_copyright_information_if_present.md)
    * [Package statement](package_statement.md)
-   * Import statements
+   * [Import statements](import_statements.md)
        * No wildcard imports
        * No line-wrapping
        * Ordering and spacing
