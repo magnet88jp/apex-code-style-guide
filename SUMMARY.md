@@ -39,7 +39,7 @@
        * [Enum classes](enum_classes.md)
        * [Variable declarations](variable_declarations.md)
            * [One variable per declaration](one_variable_per_declaration.md)
-           * Declared when needed, initialized as soon as possible
+           * [Declared when needed, initialized as soon as possible](declared_when_needed,_initialized_as_soon_as_possi.md)
        * Arrays
            * Array initializers: can be "block-like"
            * No C-style array declarations
