@@ -50,7 +50,7 @@
        * [Annotations](annotations.md)
        * [Comments](comments.md)
            * [Block comment style](block_comment_style.md)
-       * Modifiers
+       * [Modifiers](modifiers.md)
        * Numeric Literals
 * [命名ルール](naming.md)
 * [実践的なプログラミング](programming-practices.md)
