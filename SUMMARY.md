@@ -43,7 +43,7 @@
        * [Arrays](arrays.md)
            * [Array initializers: can be "block-like"](array_initializers_can_be_block-like.md)
            * [No C-style array declarations](no_c-style_array_declarations.md)
-       * Switch statements
+       * [Switch statements](switch_statements.md)
            * Indentation
            * Fall-through: commented
            * The default case is present
