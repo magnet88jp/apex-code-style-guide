@@ -16,7 +16,7 @@
        * [改行禁止](no_line-wrapping.md)
        * [順序と空白](ordering_and_spacing.md)
    * [クラス宣言](class_declaration.md)
-       * Exactly one top-level class declaration
+       * [Exactly one top-level class declaration](exactly_one_top-level_class_declaration.md)
        * Class member ordering
            * Overloads: never split
 * [フォーマット](formatting.md)
