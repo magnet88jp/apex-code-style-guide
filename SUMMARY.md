@@ -38,7 +38,7 @@
    * [Specific constructs](specific_constructs.md)
        * [Enum classes](enum_classes.md)
        * [Variable declarations](variable_declarations.md)
-           * One variable per declaration
+           * [One variable per declaration](one_variable_per_declaration.md)
            * Declared when needed, initialized as soon as possible
        * Arrays
            * Array initializers: can be "block-like"
