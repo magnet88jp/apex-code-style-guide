@@ -28,7 +28,7 @@
    * [One statement per line](one_statement_per_line.md)
    * [Column limit: 80 or 100](column_limit_80_or_100.md)
    * [Line-wrapping](line-wrapping.md)
-       * Where to break
+       * [Where to break](where_to_break.md)
        * Indent continuation lines at least +4 spaces
    * Whitespace
        * Vertical Whitespace
