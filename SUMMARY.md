@@ -41,7 +41,7 @@
            * [One variable per declaration](one_variable_per_declaration.md)
            * [Declared when needed, initialized as soon as possible](declared_when_needed,_initialized_as_soon_as_possi.md)
        * [Arrays](arrays.md)
-           * Array initializers: can be "block-like"
+           * [Array initializers: can be "block-like"](array_initializers_can_be_block-like.md)
            * No C-style array declarations
        * Switch statements
            * Indentation
