@@ -36,7 +36,7 @@
        * [Horizontal alignment: never required](horizontal_alignment_never_required.md)
    * [Grouping parentheses: recommended](grouping_parentheses_recommended.md)
    * [Specific constructs](specific_constructs.md)
-       * Enum classes
+       * [Enum classes](enum_classes.md)
        * Variable declarations
            * One variable per declaration
            * Declared when needed, initialized as soon as possible
