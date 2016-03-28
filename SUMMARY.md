@@ -45,7 +45,7 @@
            * [No C-style array declarations](no_c-style_array_declarations.md)
        * [Switch statements](switch_statements.md)
            * [Indentation](indentation.md)
-           * Fall-through: commented
+           * [Fall-through: commented](fall-through_commented.md)
            * The default case is present
        * Annotations
        * Comments
