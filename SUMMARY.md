@@ -32,7 +32,7 @@
        * [Indent continuation lines at least +4 spaces](indent_continuation_lines_at_least_+4_spaces.md)
    * [Whitespace](whitespace.md)
        * [Vertical Whitespace](vertical_whitespace.md)
-       * Horizontal whitespace
+       * [Horizontal whitespace](horizontal_whitespace.md)
        * Horizontal alignment: never required
    * Grouping parentheses: recommended
    * Specific constructs
