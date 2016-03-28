@@ -20,7 +20,7 @@
        * [クラスメンバーの順序](class_member_ordering.md)
            * [オーバーロードしているメソッド群を分離してはいけません](overloads_never_split.md)
 * [フォーマット](formatting.md)
-   * Braces
+   * [Braces](braces.md)
        * [Braces are used where optional](braces_are_used_where_optional.md)
        * [Nonempty blocks: K & R style](nonempty_blocks_k_&_r_style.md)
        * [Empty blocks: may be concise](empty_blocks_may_be_concise.md)
