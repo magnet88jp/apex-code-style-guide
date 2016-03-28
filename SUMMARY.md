@@ -24,7 +24,7 @@
        * [Braces are used where optional](braces_are_used_where_optional.md)
        * [Nonempty blocks: K & R style](nonempty_blocks_k_&_r_style.md)
        * [Empty blocks: may be concise](empty_blocks_may_be_concise.md)
-   * Block indentation: +2 spaces
+   * [Block indentation: +2 spaces](block_indentation_+2_spaces.md)
    * One statement per line
    * Column limit: 80 or 100
    * Line-wrapping
