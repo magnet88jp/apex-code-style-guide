@@ -13,7 +13,7 @@
    * [Package statement](package_statement.md)
    * [Import statements](import_statements.md)
        * [No wildcard imports](no_wildcard_imports.md)
-       * No line-wrapping
+       * [No line-wrapping](no_line-wrapping.md)
        * Ordering and spacing
    * Class declaration
        * Exactly one top-level class declaration
