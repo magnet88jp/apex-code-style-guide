@@ -10,12 +10,12 @@
        * [非ASCII文字](non-ascii-characters.md)
 * [ソースファイルの構造](source-file-structure.md)
    * [ライセンスあるいはコピーライトの情報（もしあるならば）](license_or_copyright_information_if_present.md)
-   * [Package statement](package_statement.md)
-   * [Import statements](import_statements.md)
-       * [No wildcard imports](no_wildcard_imports.md)
-       * [No line-wrapping](no_line-wrapping.md)
-       * [Ordering and spacing](ordering_and_spacing.md)
-   * [Class declaration](class_declaration.md)
+   * [パッケージ文](package_statement.md)
+   * [インポート文](import_statements.md)
+       * [ワイルドカードインポートは禁止](no_wildcard_imports.md)
+       * [改行禁止](no_line-wrapping.md)
+       * [順序と空白](ordering_and_spacing.md)
+   * [クラス宣言](class_declaration.md)
        * Exactly one top-level class declaration
        * Class member ordering
            * Overloads: never split
