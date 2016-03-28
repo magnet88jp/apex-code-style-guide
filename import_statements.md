@@ -1,2 +1,2 @@
-# Import statements
+# インポート文
 
