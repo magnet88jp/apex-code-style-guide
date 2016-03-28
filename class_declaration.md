@@ -1,2 +1,2 @@
-# Class declaration
+# クラス宣言
 
