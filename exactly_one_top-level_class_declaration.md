@@ -1,2 +1,3 @@
-# Exactly one top-level class declaration
+# 1つだけのトップレベルクラスの宣言
 
+各トップレベルクラスは1つのファイルに保存されます。
