@@ -29,7 +29,7 @@
    * [Column limit: 80 or 100](column_limit_80_or_100.md)
    * [Line-wrapping](line-wrapping.md)
        * [Where to break](where_to_break.md)
-       * Indent continuation lines at least +4 spaces
+       * [Indent continuation lines at least +4 spaces](indent_continuation_lines_at_least_+4_spaces.md)
    * Whitespace
        * Vertical Whitespace
        * Horizontal whitespace
