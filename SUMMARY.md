@@ -37,7 +37,7 @@
    * [Grouping parentheses: recommended](grouping_parentheses_recommended.md)
    * [Specific constructs](specific_constructs.md)
        * [Enum classes](enum_classes.md)
-       * Variable declarations
+       * [Variable declarations](variable_declarations.md)
            * One variable per declaration
            * Declared when needed, initialized as soon as possible
        * Arrays
