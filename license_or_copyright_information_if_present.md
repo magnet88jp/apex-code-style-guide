@@ -1,2 +1,2 @@
-# License or copyright information, if present
-
+# ライセンスあるいはコピーライトの情報（もしあるならば）
+もしファイルにライセンスあるいはコピーライトの情報があるならばここに入れます。
