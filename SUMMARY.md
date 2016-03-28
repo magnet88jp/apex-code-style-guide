@@ -48,7 +48,7 @@
            * [Fall-through: commented](fall-through_commented.md)
            * [The default case is present](the_default_case_is_present.md)
        * [Annotations](annotations.md)
-       * Comments
+       * [Comments](comments.md)
            * Block comment style
        * Modifiers
        * Numeric Literals
