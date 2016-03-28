@@ -51,7 +51,7 @@
        * [Comments](comments.md)
            * [Block comment style](block_comment_style.md)
        * [Modifiers](modifiers.md)
-       * Numeric Literals
+       * [Numeric Literals](numeric_literals.md)
 * [命名ルール](naming.md)
 * [実践的なプログラミング](programming-practices.md)
 
