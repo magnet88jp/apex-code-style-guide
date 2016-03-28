@@ -47,7 +47,7 @@
            * [Indentation](indentation.md)
            * [Fall-through: commented](fall-through_commented.md)
            * [The default case is present](the_default_case_is_present.md)
-       * Annotations
+       * [Annotations](annotations.md)
        * Comments
            * Block comment style
        * Modifiers
