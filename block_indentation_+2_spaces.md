@@ -1,2 +1,2 @@
-# Block indentation: +2 spaces
+# ブロックのインデントは空白2個です
 
