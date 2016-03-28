@@ -1,2 +1,9 @@
-# Empty blocks: may be concise
+# 空ブロックは簡潔に
 
+空ブロックやブロック様の構造物は開始括弧直後に文字や改行無しで閉じます。（ {} ） ただし、 if/else-if/else あるいは try/catch/finally のような複数ブロックの文の場合を除きます。
+
+例：
+
+```
+void doNothing() {}
+```
