@@ -1,2 +1,3 @@
-# The default case is present
+# default 節は必要
 
+各スイッチ文はたとえコードがない場合でも default ステートメントグループが必須です。
